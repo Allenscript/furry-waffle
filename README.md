@@ -2,7 +2,7 @@
 usual  script repo
 
 
-##—— one line normal user permissons
+##  one line normal user permissons
 当你在超级管理员权限下进行工作时，如果你需要降低权限运行某个命令的话，也许这个脚本会帮到你
 
 add script which when u exec this script but one line need Normal User permissions
